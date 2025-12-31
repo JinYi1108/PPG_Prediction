@@ -28,22 +28,23 @@ translations = {
         
 
         'varices_label': "食管胃底静脉曲张 (Esophageal gastric varices)",
-        'varices_0': "0 - 轻度",
-        'varices_1': "1 - 中度",
-        'varices_2': "2 - 重度",
+        'varices_0': "0 - 直径<5mm, 无红色征象或糜烂, 表面光滑,无纤维蛋白覆盖",
+        'varices_1': "1 - 直径5-10mm,局部红色征象或孤立性糜烂",
+        'varices_2': "2 - 直径>10mm,弥漫性红色征象,纤维蛋白帽或血疱样斑点,渗血或喷射性出血",
+        
         
         'splenomegaly_label': "脾肿大 (Splenomegaly)",
-        'splenomegaly_0': "0 - 轻度",
-        'splenomegaly_1': "1 - 中度",
-        'splenomegaly_2': "2 - 重度",
+        'splenomegaly_0': "0 - 无 (≤ 12 cm)",
+        'splenomegaly_1': "1 - 有 (> 12 cm)",
+        'splenomegaly_2': "2 - 脾切除术后 (status post splenectomy)",
 
         'ascites_label': "腹水 (Ascites)",
-        'ascites_0': "无",
-        'ascites_1': "有",
+        'ascites_0': "0 - 无/轻度",
+        'ascites_1': "1 - 中-重度",
         
         'sidebar_subheader_lab': "检查指标", 
 
-        'rpvf_label': "右门静脉血流量 (RPVF, mL/min)",
+        'rpvf_label': "门静脉右支流量 (RPVF, mL/min)",
         'hb_label': "血红蛋白 (Hb, g/L)",
         
         'predict_button': "开始预测",
