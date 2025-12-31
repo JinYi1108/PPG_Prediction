@@ -77,18 +77,20 @@ translations = {
         'sidebar_subheader_clinical': "Clinical Manifestations",
 
         'varices_label': "Esophageal gastric varices",
-        'varices_0': "0 - Mild",
-        'varices_1': "1 - Moderate",
-        'varices_2': "2 - Severe",
+        'varices_0': "0 - variceal diameter <5mm, absence of red color signs or erosions, smooth surface without fibrin caps",
+        'varices_1': "1 - variceal diameter 5-10mm, presence of localized red color signs (RC+) or isolated erosions",
+        'varices_2': "2 - variceal diameter >10mm, presence of diffuse red color signs, fibrin caps/hematocystic spots or active oozing or spurting bleeding",
         
         'splenomegaly_label': "Splenomegaly",
-        'splenomegaly_0': "0 - Mild",
-        'splenomegaly_1': "1 - Moderate",
-        'splenomegaly_2': "2 - Severe",
+        'splenomegaly_0': "0 - Absent (≤ 12 cm)",
+        'splenomegaly_1': "1 - Present (> 12 cm)",
+        'splenomegaly_2': "2 - Status post splenectomy",
 
         'ascites_label': "Ascites",
-        'ascites_0': "No",
-        'ascites_1': "Yes",
+        'ascites_0': "0 - Absent/Mild",
+        'ascites_1': "1 - Moderate-Severe",
+        'sidebar_subheader_lab': "Laboratory Indicators",
+
 
         'sidebar_subheader_lab': "Laboratory Indicators",
 
